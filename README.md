@@ -51,16 +51,16 @@ College Board: The 2021 SAT Suite of Assessments Annual Reports ([*source*](http
 
 ### Data description and visualization
 - The following bar chart demonstrated that Connecticut, Delaware, and Michigan had 100% SAT participation for 2017, 2018, and 2019. 
-![participation](participation.png)
+![participation](Figures/participation.png)
 
 - The following line plot demonstrated that the average SAT score for students of Connecticut dropped for the year 2020.
-![connecticut](connecticut.png)
+![connecticut](Figures/connecticut.png)
 
 - The following line plot demonstrated that the average SAT score for students of Michigan dropped for the year of 2020.
-![michigan](michigan.png)
+![michigan](Figures/michigan.png)
 
 - The following line plot demonstrated a more significant decrease in the SAT performances for the year 2020.
-![delaware](delaware.png)
+![delaware](Figures/delaware.png)
 
 ### Conclusions and Recommendations
 Through investigating the trends in the SAT scores across the three states that have 100% SAT participation. The sudden decrease in the SAT performances for students in the 2020 academic year, and the increase in that performances for students in the 2021 academic year, suggested that SAT scores are negatively impacted by the Covid-19. 
